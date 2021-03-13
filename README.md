@@ -13,7 +13,7 @@ WhatsApp like : Sub1 : joined, Sub1 : completed and so on.
 
 
 ![image](https://github.com/Yuvaraj19/online-classes-automation/blob/main/Capture.JPG)
-
+![image](https://github.com/Yuvaraj19/online-classes-automation/blob/main/whatappJPG.JPG)
 Note : Many changes have to be done on the code of this project, for it to work for you.
 (Time table should be updated, urls should be added and some respective changes in code 
 and maybe more depending on your time table, So if any difficulty faced and if it does'nt work 
