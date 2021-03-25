@@ -17,7 +17,6 @@ time_table = {
 }
 
 day = datetime.datetime.now().strftime("%A")
-day = 'Tuesday'
 
 
 def join(url, subject):
